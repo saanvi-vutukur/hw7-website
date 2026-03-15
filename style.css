@@ -1,0 +1,48 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f7f3ef;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+
+nav {
+  background-color: #844848;
+  padding: 15px;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+  margin-right: 20px;
+  font-weight: bold;
+}
+
+nav a:hover {
+  text-decoration: underline;
+}
+
+h1,
+h2,
+h3 {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+p {
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+img {
+  display: block;
+  margin-left: 40px;
+  margin-top: 20px;
+  border-radius: 10px;
+}
+
+#contact {
+  background-color: #eee;
+  padding: 20px;
+  margin: 40px;
+}
